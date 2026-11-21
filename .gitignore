@@ -6,3 +6,16 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# Node
+node_modules/
