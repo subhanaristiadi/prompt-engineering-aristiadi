@@ -33,6 +33,9 @@ The section that makes the rest of the repository credible.
   motivate evaluation, and what "working" even means.
 - **[Evaluation checklist](testing/evaluation-checklist.md)** — A concrete,
   reusable checklist you can apply to any prompt before shipping it.
+- **[Sandbox notes](testing/sandbox-notes.md)** — Environment notes for running a
+  Git/GitHub workflow inside a confined agent sandbox, including the failures that
+  masquerade as credential problems.
 
 ## Suggested reading order
 
